@@ -1,0 +1,20 @@
+kmp:
+    type: Web
+    title: Что такое Kotlin Multiplatform?
+    url: 
+        value: https://kotlinlang.org/docs/multiplatform.html#kotlin-multiplatform-use-cases
+        date: 2024-01-26
+
+jetpack-compose:
+    type: Book
+    title: Jetpack Compose by Tutorials
+    author: Kodeco Team
+            Denis Buketa
+            Prateek Prasad
+    page-total: 463
+    publisher: Paperback
+    date: 2023-03-29
+    edition: 2
+    serial: 'ISBN: 978-1950325832'
+    language: en
+
