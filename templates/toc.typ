@@ -11,7 +11,7 @@
   )
   
 
-  set text(size: 14pt)
+  set text(size: 14pt, font: "Times New Roman")
 
   outline(depth: 3, indent: true, title: align(center)[#upper("Содержание")])
 }
